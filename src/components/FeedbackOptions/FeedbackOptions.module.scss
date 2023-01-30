@@ -1,0 +1,17 @@
+.btn{
+    background-color: #FFEA20;
+    border:none; 
+    border-radius:10px; 
+    padding:15px;
+    min-height:30px; 
+    min-width: 120px;
+    cursor: pointer;
+    &:hover{
+        background-color: #9DF1DF;
+    }
+}
+.boxbtn{
+    margin-left: 50px;
+    display: flex;
+    gap: 20px;
+}
